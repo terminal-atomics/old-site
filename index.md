@@ -14,7 +14,7 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 We're a bunch of Devs who came together to work our talent together. When we're not screwing around (and burning anything Java to the ground) that is.
 
-# What do we do?
+## What do we do?
 <!--## Header 2
 
 > This is a blockquote following a header.
