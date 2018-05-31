@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Our team members
+# Our team members
 
 Check out our team members!
 
@@ -20,11 +20,11 @@ description
 
 ### [extragornax](https://github.com/extragornax)
 
-description
+Leader of the team. Should probably moderate what Lyra puts on the site. Luckily its not public yet so it doesn't matter.
 
 ### [Jam&son](https://github.com/Captainjamason)
 
-description
+Aka Jimple, Jicklison, Japson, Jypsun, and more.
 
 ### [Lyra](https://github.com/LyrantheR)
 
