@@ -2,8 +2,8 @@
 layout: default
 ---
 
-## Welcome to another page
+## Our team members
 
-_yay_
 
-[back](./)
+
+## [back to main menu](./)
