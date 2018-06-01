@@ -22,8 +22,20 @@
   <body>
       <div id="header">
         <nav>
-		  <li class="fork"><a href="{{ site.github.owner_url }}">View Our GitHub</a></li>
-		  <li class="downloads"><a href="./members.html">View Our Profiles</a></li>
+            {{relative_url}} 
+      <li class="fork"><a href="{{ site.github.owner_url }}">View Our GitHub</a></li>
+      <IF id='if-1'>
+        <CONDITION var="relative_url">
+          {{relative_url}}                    
+        </CONDITION>
+        <THEN>
+          <li class="downloads"><a href="./members.html">View Our Profiles</a></li>
+        </THEN>
+        <ELSE>
+            <...other set of actions defined here.../>
+        </ELSE>
+    </IF>
+		  
         </nav>
       </div><!-- end header -->
 

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Our team members
+# Our Team Members
 
 Check out our team members!
 
@@ -30,7 +30,7 @@ Aka Jimple, Jicklison, Japson, Jypsun, and more.
 
 JS hater (aka the only true type of person). Works on basic design, this site and team efficiency.
 
-### [plane000](https://github.com/plane000)
+### [Ben](https://github.com/plane000)
 
 description
 
