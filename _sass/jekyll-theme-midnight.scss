@@ -14,7 +14,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color:#e8e8e8;
+  color:#ffcc00;
   margin:0 0 10px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-weight: normal;
@@ -26,19 +26,25 @@ p, ul, ol, table, pre, dl {
 
 h1, h2, h3 {
   line-height:1.1;
+  color:#ffcc00;
 
 }
 
 h1 {
   font-size:28px;
+  color:#ffcc00;
+  font-family: 'Bitter', sans-serif;
 }
 
 h2 {
   font-size: 24px;
+  color:#ffcc00;
+  font-family: 'Bitter', sans-serif;
 }
 
 h4, h5, h6 {
-  color:#e8e8e8;
+  color:#ffcc00;
+  font-family: 'Bitter', sans-serif;
 }
 
 h3 {
@@ -46,7 +52,7 @@ h3 {
   line-height: 24px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-weight: normal;
-  color: #b6b6b6;
+  color:#666;
 }
 
 a {
@@ -242,6 +248,7 @@ section {
       font-size: 40px;
       text-align: center;
       line-height: 36px;
+      color: #efefef;
     }
 
     p {
